@@ -15,7 +15,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 ---
 
-## ✍️ Editor’s Picks – Writing Tools
+## Editor’s Picks – Writing Tools
 
 > Explore the most powerful and reliable AI writing tools that help with content creation, blogging, marketing, SEO, emails, and more.
 
