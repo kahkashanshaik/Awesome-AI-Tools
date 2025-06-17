@@ -1,4 +1,6 @@
-# 🧠 Awesome AI Tools Directory
+# 🧠 Awesome AI Tools Directory ![Stars](https://img.shields.io/github/stars/kahkashanshaik/Awesome-AI-Tools?style=social) ![Forks](https://img.shields.io/github/forks/kahkashanshaik/Awesome-AI-Tools?style=social) ![License](https://img.shields.io/github/license/kahkashanshaik/Awesome-AI-Tools)
+
+---
 
 A curated collection of the **best AI tools** categorized for easy discovery. Continuously updated!
 
@@ -82,7 +84,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 ## 💡 Want to suggest a tool?
 
 Help us keep this list up-to-date!  
-Open a [pull request](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/pulls) or [submit an issue](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/issues).
+Open a [pull request](https://github.com/kahkashanshaik/Awesome-AI-Tools/pulls) or [submit an issue](https://github.com/kahkashanshaik/Awesome-AI-Tools/issues).
 
 ---
 
