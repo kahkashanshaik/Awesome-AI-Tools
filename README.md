@@ -148,7 +148,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 ---
 
-## 🎨 UI/UX Design Tools
+## 🎨UI/UX Design Tools
 
 | Tool Name                                   | Description                                                                 | Pricing   | Free Credits / Trial         |
 | ------------------------------------------- | --------------------------------------------------------------------------- | --------- | ---------------------------- |
