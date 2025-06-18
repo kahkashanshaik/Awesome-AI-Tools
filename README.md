@@ -10,7 +10,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 - 🖼️ [Image Generation](#image-generation)
 - 🎥 [Best Video Editing](#best-video-editing)
 - 💬 [Best AI Chatbots & Agents](#-best-ai-chatbots--agents)
-- 🧑‍💻 [Code Assistants](#)
+- 🧑‍💻 [Code Assistants](#code-assistants)
 - 🧩 [Productivity Tools](#)
 - 🔊 [Voice Cloning & AI Audio](#)
 - 🧰 [Miscellaneous Tools](#)
