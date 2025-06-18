@@ -9,7 +9,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 - ✍️ [Writing Tools](#writing-tools)
 - 🖼️ [Image Generation](#image-generation)
 - 🎥 [Best Video Editing](#best-video-editing)
-- 💬 [Chatbots & Agents](#)
+- 💬 [Best AI Chatbots & Agents](#-best-ai-chatbots--agents)
 - 🧑‍💻 [Code Assistants](#)
 - 🧩 [Productivity Tools](#)
 - 🔊 [Voice Cloning & AI Audio](#)
@@ -114,10 +114,36 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 ---
 
-## 💡 Want to contribute?
+# Best AI Chatbots & Agents
 
-This list is open-source and growing.  
-Suggest your favorite tools via [GitHub Issues](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/issues) or a pull request.
+> A collection of the most powerful AI chatbots and autonomous agents for personal use, business automation, customer service, and developer integration.
+
+---
+
+## 📋 AI Chatbots & Agents Comparison
+
+| Tool Name                                          | Description                                                   | Pricing  | Free Credits / Trial                     |
+| -------------------------------------------------- | ------------------------------------------------------------- | -------- | ---------------------------------------- |
+| [ChatGPT](https://chat.openai.com)                 | Conversational AI by OpenAI, now powered by GPT-4o.           | Freemium | Free (GPT-3.5), GPT-4o in Plus plan      |
+| [Claude](https://claude.ai)                        | Helpful AI chatbot by Anthropic, focused on safety and depth. | Freemium | Free Claude 3 Haiku access               |
+| [Google Gemini](https://gemini.google.com)         | Google's AI assistant integrated with Workspace.              | Freemium | Free with Google account                 |
+| [Perplexity AI](https://www.perplexity.ai)         | Chat + search engine hybrid with citations.                   | Freemium | Free (Pro adds Claude/ GPT-4o)           |
+| [Microsoft Copilot](https://copilot.microsoft.com) | Chatbot with web browsing, image gen, Office 365 tools.       | Free     | Free with Microsoft account              |
+| [You.com](https://you.com)                         | AI-powered search chatbot with writing, coding, and browsing. | Freemium | Free access, YouPro for GPT-4 & Claude   |
+| [Pi by Inflection](https://heypi.com)              | Friendly and emotionally intelligent chatbot.                 | Free     | Unlimited use                            |
+| [Replika](https://replika.com)                     | Personal AI companion focused on conversation & emotion.      | Freemium | Free basic chat, Pro adds voice & images |
+| [Character.AI](https://beta.character.ai)          | Create and talk with AI personas (roleplay, celebs, etc.).    | Free     | Unlimited text chats                     |
+| [HuggingChat](https://huggingface.co/chat/)        | Open-source chatbot alternative to ChatGPT.                   | Free     | Unlimited access                         |
+| [Janitor AI](https://www.janitorai.com)            | NSFW-friendly chatbot with customizable characters.           | Freemium | Free with API key (OpenAI/others)        |
+| [AgentGPT](https://agentgpt.reworkd.ai/)           | Deploy autonomous GPT-powered agents in-browser.              | Freemium | Free limited runs                        |
+| [AutoGPT](https://github.com/Torantulino/Auto-GPT) | Open-source autonomous GPT-4 agent runner (install locally).  | Free     | Requires OpenAI API key                  |
+| [Superagent](https://www.superagent.sh)            | Build, deploy and host custom GPT agents.                     | Freemium | Free tier with 100 messages/day          |
+| [OpenAgents](https://openagents.dev)               | Multi-agent framework for research & automation.              | Free     | Open-source                              |
+| [Quora Poe](https://poe.com)                       | Unified platform to chat with GPT-4, Claude, Mistral, etc.    | Freemium | Free with daily GPT-4/Claude messages    |
+| [FlowiseAI](https://flowiseai.com)                 | Drag-and-drop UI to build chatbot apps with LangChain.        | Free     | Open-source                              |
+| [Zapier AI Chatbot](https://zapier.com/ai)         | Build bots that connect to 6,000+ apps using Zapier.          | Freemium | Free tier with limits                    |
+| [Botpress](https://botpress.com)                   | Open-source platform to build custom chatbots.                | Freemium | Free self-hosted version                 |
+| [Tiledesk](https://www.tiledesk.com)               | AI-enabled live chat and customer support automation.         | Freemium | Free plan with limited bots              |
 
 ---
 
@@ -130,7 +156,7 @@ Open a [pull request](https://github.com/kahkashanshaik/Awesome-AI-Tools/pulls) 
 
 ---
 
-> 📌 _Part of the [Awesome AI Tools Directory](../README.md)_
+> 📌 _Part of the [Awesome AI Tools Directory](README.md)_
 
 ## 🤝 Contributing
 
