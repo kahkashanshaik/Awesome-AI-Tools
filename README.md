@@ -14,6 +14,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 - 🧩 [Productivity Tools](#)
 - 🔊 [Voice Cloning & AI Audio](#)
 - 🧰 [Miscellaneous Tools](#)
+- 🎨 [UI/UX Design Tools](#uiux-design-tools)
 
 ---
 
@@ -144,6 +145,14 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Zapier AI Chatbot](https://zapier.com/ai)         | Build bots that connect to 6,000+ apps using Zapier.          | Freemium | Free tier with limits                    |
 | [Botpress](https://botpress.com)                   | Open-source platform to build custom chatbots.                | Freemium | Free self-hosted version                 |
 | [Tiledesk](https://www.tiledesk.com)               | AI-enabled live chat and customer support automation.         | Freemium | Free plan with limited bots              |
+
+---
+
+## 🎨 UI/UX Design Tools
+
+| Tool Name                                   | Description                                                                 | Pricing   | Free Credits / Trial         |
+| ------------------------------------------- | --------------------------------------------------------------------------- | --------- | ---------------------------- |
+| [Stitch by Google](https://labs.google)     | Experimental AI tool that converts text or image prompts into high-fidelity UI designs. It supports export to Figma with editable layers and HTML/CSS code, enabling rapid prototyping and developer handoff. Best for single-screen, quick UI ideation. | Free (Experimental) | No credits needed; fully free for now |
 
 ---
 
