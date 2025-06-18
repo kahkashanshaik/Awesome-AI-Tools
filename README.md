@@ -8,7 +8,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 - ✍️ [Writing Tools](#writing-tools)
 - 🖼️ [Image Generation](#image-generation)
-- 🎥 [Video Editing](#)
+- 🎥 [Best Video Editing](#best-video-editing)
 - 💬 [Chatbots & Agents](#)
 - 🧑‍💻 [Code Assistants](#)
 - 🧩 [Productivity Tools](#)
@@ -80,6 +80,48 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Magic Studio](https://magicstudio.com/tools/ai-image-generator)             | Create product shots, background removal + image gen. | Freemium | Free basic features                           |
 
 ---
+
+# Best Video Editing
+
+> Discover powerful AI tools for video creation, editing, enhancement, dubbing, and more — perfect for content creators, marketers, and developers.
+
+---
+
+## 📋 AI Video Tools Comparison
+
+| Tool Name                              | Description                                                       | Pricing  | Free Credits / Trial        |
+| -------------------------------------- | ----------------------------------------------------------------- | -------- | --------------------------- |
+| [Runway ML](https://runwayml.com)      | Full-featured AI video editing (background removal, Gen-2, etc.). | Freemium | 125 free credits/month      |
+| [Pictory](https://pictory.ai)          | Turn long-form content into short videos using AI.                | Freemium | Free trial with watermark   |
+| [Synthesia](https://www.synthesia.io)  | Generate professional AI avatar videos from text.                 | Paid     | Demo video free             |
+| [Lumen5](https://www.lumen5.com)       | Turn blog posts or text into videos with AI visuals.              | Freemium | Basic free plan             |
+| [Veed.io](https://www.veed.io)         | Online AI-powered video editing, subtitles, and auto cut.         | Freemium | Free with watermark         |
+| [Descript](https://www.descript.com)   | Edit videos like docs; AI-powered voice + video editing.          | Freemium | Free 1 hr of transcription  |
+| [Kapwing](https://www.kapwing.com)     | AI video tools, subtitling, meme gen, and repurposing.            | Freemium | Free exports with watermark |
+| [Wisecut](https://www.wisecut.video)   | AI auto-cut, subtitle, and music sync for talking videos.         | Freemium | Limited free plan           |
+| [Invideo AI](https://invideo.io/ai)    | Create videos from prompts instantly with narration.              | Freemium | 3 free AI videos/month      |
+| [Animoto](https://animoto.com)         | Drag-drop AI-based video maker for marketing.                     | Freemium | Free with branding          |
+| [Hour One](https://www.hourone.ai)     | Text-to-video using AI avatars for training/comms.                | Paid     | Free demo on signup         |
+| [Fliki](https://fliki.ai)              | Convert scripts/blogs to videos using AI voices & scenes.         | Freemium | 5 min/month free            |
+| [Steve AI](https://www.steve.ai)       | AI text-to-animation and video generation.                        | Freemium | Limited free plan           |
+| [Rephrase.ai](https://www.rephrase.ai) | Personalized video generation using real humans.                  | Paid     | Custom pricing              |
+| [Elai.io](https://elai.io)             | Avatar-based videos with dynamic input and languages.             | Freemium | Free demo available         |
+| [Synthesys](https://synthesys.io)      | AI voice + avatar-based video creation.                           | Paid     | Free demo video             |
+| [Animaker](https://www.animaker.com)   | AI + drag-drop cartoon & explainer video tool.                    | Freemium | Free with limited exports   |
+| [Papercup](https://www.papercup.com)   | AI voice dubbing and translation for video.                       | Paid     | Request demo                |
+| [Dubverse](https://dubverse.ai)        | Auto-dub videos into 30+ languages using AI.                      | Freemium | Free trial with watermark   |
+| [Nova AI](https://www.trynova.ai)      | AI-based video editing, translation, and subtitle gen.            | Freemium | Free with limited features  |
+
+---
+
+## 💡 Want to contribute?
+
+This list is open-source and growing.  
+Suggest your favorite tools via [GitHub Issues](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/issues) or a pull request.
+
+---
+
+> 📌 _Part of the [Awesome AI Tools Directory](../README.md)_
 
 ## 💡 Want to suggest a tool?
 
