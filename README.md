@@ -186,6 +186,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | Tool Name | Description | Pricing | Free Credits / Trial |
 | --- | --- | --- | --- |
 | [Stitch by Google](https://labs.google) | Experimental AI tool that converts text or image prompts into high-fidelity UI designs. It supports export to Figma with editable layers and HTML/CSS code, enabling rapid prototyping and developer handoff. Best for single-screen, quick UI ideation. | Free (Experimental) | No credits needed; fully free for now |
+| [Uizard](https://uizard.io)                 | AI-powered design platform that transforms text descriptions, wireframes, or screenshots into interactive prototypes. Great for fast ideation, wireframing, and even team collaboration. | Freemium  | Free plan with basic features |
 
 ---
 
