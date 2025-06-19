@@ -14,6 +14,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 - 🧩 [Productivity Tools](#)
 - 🔊 [Voice Cloning & AI Audio](#)
 - 🧰 [Miscellaneous Tools](#)
+- 🎨 [UI/UX Design Tools](#uiux-design-tools)
 
 ---
 
@@ -177,6 +178,14 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [SuperAGI](https://superagi.com)                                    | Open-source autonomous coding agents.                            | Free     | Open-source                    |
 | [Refact.ai](https://refact.ai)                                      | AI assistant for private codebases and self-hosting.             | Freemium | Free plan with VS Code support |
 | [StarCoder (BigCode)](https://huggingface.co/bigcode/starcoder)     | Open-source multilingual LLM for code (Hugging Face).            | Free     | Open API access                |
+
+---
+
+## 🎨UI/UX Design Tools
+
+| Tool Name | Description | Pricing | Free Credits / Trial |
+| --- | --- | --- | --- |
+| [Stitch by Google](https://labs.google) | Experimental AI tool that converts text or image prompts into high-fidelity UI designs. It supports export to Figma with editable layers and HTML/CSS code, enabling rapid prototyping and developer handoff. Best for single-screen, quick UI ideation. | Free (Experimental) | No credits needed; fully free for now |
 
 ---
 
