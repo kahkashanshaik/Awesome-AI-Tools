@@ -9,7 +9,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 - ✍️ [Writing Tools](#writing-tools)
 - 🖼️ [Image Generation](#image-generation)
 - 🎥 [Best Video Editing](#best-video-editing)
-- 💬 [Best AI Chatbots & Agents](#-best-ai-chatbots--agents)
+- 💬 [Best AI Chatbots & Agents](#best-ai-chatbots-&-agents)
 - 🧑‍💻 [Code Assistants](#code-assistants)
 - 🧩 [Productivity Tools](#)
 - 🔊 [Voice Cloning & AI Audio](#)
@@ -144,6 +144,39 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Zapier AI Chatbot](https://zapier.com/ai)         | Build bots that connect to 6,000+ apps using Zapier.          | Freemium | Free tier with limits                    |
 | [Botpress](https://botpress.com)                   | Open-source platform to build custom chatbots.                | Freemium | Free self-hosted version                 |
 | [Tiledesk](https://www.tiledesk.com)               | AI-enabled live chat and customer support automation.         | Freemium | Free plan with limited bots              |
+
+---
+
+# Code Assistants
+
+> A curated list of top AI coding tools that help developers write, debug, test, and explain code with speed and precision — powered by models like GPT-4, Claude, StarCoder, and more.
+
+---
+
+## 📋 AI Code Assistants Comparison
+
+| Tool Name                                                           | Description                                                      | Pricing  | Free Credits / Trial           |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------- | -------- | ------------------------------ |
+| [GitHub Copilot](https://github.com/features/copilot)               | Autocompletes code using context-aware AI (powered by OpenAI).   | Paid     | 30-day free trial              |
+| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)       | Real-time code suggestions with AWS and IDE integration.         | Free     | 100% free for individuals      |
+| [Cursor](https://www.cursor.so)                                     | AI-first IDE with GPT-4o-based chat, autocomplete, and refactor. | Freemium | Free tier with GPT-4o access   |
+| [Codeium](https://codeium.com)                                      | Fast, free AI autocompletion for 70+ languages across IDEs.      | Free     | Unlimited use                  |
+| [Tabnine](https://www.tabnine.com)                                  | AI assistant for code completion and team collaboration.         | Freemium | Free plan available            |
+| [Replit Ghostwriter](https://replit.com/ghostwriter)                | In-browser AI suggestions, explanations, and refactoring.        | Freemium | Free trial available           |
+| [CodiumAI](https://www.codium.ai)                                   | AI-powered test generation and code understanding.               | Free     | Free with signup               |
+| [AskCodi](https://www.askcodi.com)                                  | AI assistant for queries, code, SQL, and documentation.          | Freemium | Free limited usage             |
+| [Bito AI](https://bito.ai)                                          | GPT-powered code suggestions, explanations, and snippets.        | Freemium | Free with daily limits         |
+| [Phind](https://www.phind.com)                                      | Dev-focused AI search + code generation (Claude, GPT-4).         | Free     | Unlimited use                  |
+| [Continue.dev](https://continue.dev)                                | Open-source pair programmer for VS Code and JetBrains.           | Free     | Open-source                    |
+| [Mutable AI](https://www.mutable.ai)                                | Refactoring, doc generation, and prompt-driven code.             | Freemium | Free limited plan              |
+| [Cody (Sourcegraph)](https://sourcegraph.com/cody)                  | AI assistant trained on your codebase.                           | Freemium | Free with basic features       |
+| [CodeGeeX](https://codegeex.cn/)                                    | Multilingual AI code generator with VS Code extension.           | Free     | Free with API key              |
+| [Zed](https://zed.dev)                                              | Fast collaborative code editor with AI assistant built-in.       | Free     | Free to use                    |
+| [Continue.chat (OpenDevin)](https://github.com/OpenDevin/OpenDevin) | Experimental open-source autonomous AI agent for devs.           | Free     | Open-source                    |
+| [Stack AI](https://stack-ai.com)                                    | Workflow builder to integrate LLMs with dev tools and APIs.      | Freemium | Free with limits               |
+| [SuperAGI](https://superagi.com)                                    | Open-source autonomous coding agents.                            | Free     | Open-source                    |
+| [Refact.ai](https://refact.ai)                                      | AI assistant for private codebases and self-hosting.             | Freemium | Free plan with VS Code support |
+| [StarCoder (BigCode)](https://huggingface.co/bigcode/starcoder)     | Open-source multilingual LLM for code (Hugging Face).            | Free     | Open API access                |
 
 ---
 
