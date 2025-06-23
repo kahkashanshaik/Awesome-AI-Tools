@@ -220,7 +220,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | --- | --- | --- | --- |
 | [Stitch by Google](https://labs.google) | Experimental AI tool that converts text or image prompts into high-fidelity UI designs. It supports export to Figma with editable layers and HTML/CSS code, enabling rapid prototyping and developer handoff. Best for single-screen, quick UI ideation. | Free (Experimental) | No credits needed; fully free for now |
 | [Uizard](https://uizard.io)                 | AI-powered design platform that transforms text descriptions, wireframes, or screenshots into interactive prototypes. Great for fast ideation, wireframing, and even team collaboration. | Freemium  | Free plan with basic features |
-| [Visily](https://www.visily.ai)             | AI-powered UI design tool that converts text, screenshots, or sketches into editable wireframes/prototypes. Offers real-time collaboration, template and AI credits, plus Figma export and CSS inspection. | Freemium  | Starter plan: 100 AI + 150 template credits; Pro plan: $11/user/mo (3000 AI + 8000 template credits) |
+| [Visily](https://www.visily.ai)             | AI-powered UI design tool that converts text, screenshots, or sketches into editable wireframes/prototypes. Offers real-time collaboration, template and AI credits, plus Figma export and CSS inspection. | Freemium  | Starter plan: 100 AI + 150 template credits; Pro plan: $11/user/mo (3000 AI + 8000 template credits)
+| [Genius](https://www.diagram.com/genius)    | AI-powered design assistant built into Figma that suggests layout improvements, autocompletes components, and enhances workflows with real-time context-aware suggestions. Ideal for streamlining modern UI design. | Free (Beta) | Free during beta; future freemium plans expected |
+| [UX Pilot](https://uxpilot.ai/)             | AI-powered UX/UI design assistant that quickly generates data-driven layout suggestions and wireframes. Tailored to match requirements while preserving creative control; includes insights to validate design decisions. | Freemium? | Likely free tier; premium/subscription for advanced insights |
 
 ---
 
