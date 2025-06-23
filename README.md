@@ -223,6 +223,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Visily](https://www.visily.ai)             | AI-powered UI design tool that converts text, screenshots, or sketches into editable wireframes/prototypes. Offers real-time collaboration, template and AI credits, plus Figma export and CSS inspection. | Freemium  | Starter plan: 100 AI + 150 template credits; Pro plan: $11/user/mo (3000 AI + 8000 template credits)
 | [Genius](https://www.diagram.com/genius)    | AI-powered design assistant built into Figma that suggests layout improvements, autocompletes components, and enhances workflows with real-time context-aware suggestions. Ideal for streamlining modern UI design. | Free (Beta) | Free during beta; future freemium plans expected |
 | [UX Pilot](https://uxpilot.ai/)             | AI-powered UX/UI design assistant that quickly generates data-driven layout suggestions and wireframes. Tailored to match requirements while preserving creative control; includes insights to validate design decisions. | Freemium? | Likely free tier; premium/subscription for advanced insights |
+| [UXAgent (UXAgent.ai)](https://arxiv.org/abs/2502.12561) | LLM-based usability testing assistant: simulate thousands of user interactions on your web design, generate qualitative & quantitative feedback, video recordings for UX evaluation. Ideal for pre-launch testing and rapid iteration. | Open-source / Freemium | Research code available; potential freemium SaaS |
 
 ---
 
