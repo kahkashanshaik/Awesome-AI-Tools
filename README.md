@@ -224,6 +224,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Genius](https://www.diagram.com/genius)    | AI-powered design assistant built into Figma that suggests layout improvements, autocompletes components, and enhances workflows with real-time context-aware suggestions. Ideal for streamlining modern UI design. | Free (Beta) | Free during beta; future freemium plans expected |
 | [UX Pilot](https://uxpilot.ai/)             | AI-powered UX/UI design assistant that quickly generates data-driven layout suggestions and wireframes. Tailored to match requirements while preserving creative control; includes insights to validate design decisions. | Freemium? | Likely free tier; premium/subscription for advanced insights |
 | [Reweb](https://reweb.dev)                 | AI-powered visual builder for Next.js & Tailwind CSS that generates UI from text prompts or images. Includes a visual editor for real-time customization, prebuilt templates, and clean, production-ready code exports. | Freemium  | Free hobby tier; Pro plan available |
+| [Magic Patterns](https://magicpatterns.design) | AI-powered UI component generator for Figma & React. Create modular design elements via text or image prompts, customize styles, and export clean React or Figma-ready code. Backed by Y Combinator, with real-time collaboration and a rich user-contributed component library. | Freemium | Free starter plan; PRO plan unlocks advanced components & exports |
 
 ---
 
