@@ -227,6 +227,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Magic Patterns](https://magicpatterns.design) | AI-powered UI component generator for Figma & React. Create modular design elements via text or image prompts, customize styles, and export clean React or Figma-ready code. Backed by Y Combinator, with real-time collaboration and a rich user-contributed component library. | Freemium | Free starter plan; PRO plan unlocks advanced components & exports |
 | [Framer AI](https://www.framer.com/ai)     | Build responsive websites and interactive prototypes straight from text prompts using AI. With built‑in animations, live previews, and instant publishing, Framer AI bridges the gap between design and deployment for web projects. | Freemium | Free tier available; Pro plans from $19/month |
 | [v0 by Vercel](https://v0.dev)             | AI-powered dynamic UI component generator that converts text prompts into production-ready components for modern web apps. Supports React, Next.js, and Tailwind, helping teams rapidly iterate and build real UI from prompts. | Beta (Free tier) | Free during beta; usage-based pricing planned |
+| [Figma Make](https://www.figma.com/make)   | Built-in AI assistant by Figma (powered by Claude 3.7) that transforms text prompts or selected wireframes into interactive UI prototypes. Generates layouts, components, and even interaction code all within Figma. | Freemium | Included in Figma; free tier with usage limits |
 
 ---
 
