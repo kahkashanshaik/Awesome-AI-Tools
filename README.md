@@ -230,6 +230,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Figma Make](https://www.figma.com/make)   | Built-in AI assistant by Figma (powered by Claude 3.7) that transforms text prompts or selected wireframes into interactive UI prototypes. Generates layouts, components, and even interaction code all within Figma. | Freemium | Included in Figma; free tier with usage limits |
 | [Figma Sites](https://www.figma.com/sites) | AI-driven website builder inside Figma that turns design prototypes into functional, responsive websites. Includes live editing, interactive components, responsive layouts, and one-click publishing—all within the Figma ecosystem. | Freemium | Free tier with Figma account; Pro tier coming later |
 | [UI-Genie](https://github.com/Euphoria16/UI-Genie) | Self-improving mobile GUI agent powered by LLMs, capable of iterating on UI tasks—verifying outcomes, improving through self-feedback loops, and ensuring high-quality GUI generation. Open-source framework with datasets and models for smarter interface automation. | Open-source | Free (MIT-licensed); active development |
+| [Figma Dev Mode MCP Server](https://www.figma.com) | Figma’s new Model Context Protocol (MCP) server in Dev Mode enables AI models to directly access design metadata (layers, colors, metrics) from Figma files, improving the accuracy of AI-driven code generation and design handoffs. Designed for developer tools like Copilot and Claude to work with real design data. | Beta | Free for Dev/Full‑seat users |
 
 ---
 
