@@ -233,6 +233,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Figma Dev Mode MCP Server](https://www.figma.com) | Figma’s new Model Context Protocol (MCP) server in Dev Mode enables AI models to directly access design metadata (layers, colors, metrics) from Figma files, improving the accuracy of AI-driven code generation and design handoffs. Designed for developer tools like Copilot and Claude to work with real design data. | Beta | Free for Dev/Full‑seat users |
 | [Onlook](https://onlook.design)             | A desktop-first AI-powered design tool that generates full multi-screen UI prototypes from text prompts. Runs locally, gives live-editable canvases with multi-page app flows, and exports clean Figma-compatible files and code. | Freemium | Free tier available; Pro plan with advanced exports |
 | [Figma Sites](https://www.figma.com/sites) | AI-powered website builder fully integrated into Figma that converts design prototypes into responsive, live websites. Offers live editing, interactive components, responsive layouts, and instant publishing—all within the Figma ecosystem. | Freemium | Included with Figma; free tier available; Pro features coming soon |
+| [Tailwind AI](https://tailwindai.design) | AI tool that generates customizable Tailwind CSS components from text prompts or sketches. Speeds up UI component creation with responsive design-ready code. | Paid | From €90/year (no free tier) |
 
 ---
 
