@@ -234,6 +234,11 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Onlook](https://onlook.design)             | A desktop-first AI-powered design tool that generates full multi-screen UI prototypes from text prompts. Runs locally, gives live-editable canvases with multi-page app flows, and exports clean Figma-compatible files and code. | Freemium | Free tier available; Pro plan with advanced exports |
 | [Figma Sites](https://www.figma.com/sites) | AI-powered website builder fully integrated into Figma that converts design prototypes into responsive, live websites. Offers live editing, interactive components, responsive layouts, and instant publishing—all within the Figma ecosystem. | Freemium | Included with Figma; free tier available; Pro features coming soon |
 | [Tailwind AI](https://tailwindai.design) | AI tool that generates customizable Tailwind CSS components from text prompts or sketches. Speeds up UI component creation with responsive design-ready code. | Paid | From €90/year (no free tier) |
+| [NLWeb](https://github.com/microsoft/NLWeb)      | Open-source Python framework (Model Context Protocol server) for building natural language interfaces on websites—enabling chat & search directly in UI with AI. Ideal for conversational UX and embedding AI into your web design workflow. | Open-source | Free (MIT license) |
+| [Looka](https://looka.com)                        | AI-driven brand identity creator that generates logos, color palettes, fonts, and full branding kits from your business prompts. Great for integrated UI/UX branding workflows. | Freemium | Free logo previews; paid branding kits |
+| [Omneky](https://omneky.com)                      | AI tool for automated creative advertising campaigns—designs UI assets like banners and social cards tailored to target audiences using AI and A/B optimization. | Paid | Contact for demo; enterprise pricing |
+| [Liquid Glass (Apple)](https://en.wikipedia.org/wiki/Liquid_Glass) | Apple’s new design language introduced at WWDC 2025, offering a “fluid glass-like” interface aesthetic. Defines a modern UI framework for multi-platform Apple apps. | Free | Part of iOS 26/macOS Tahoe etc. |
+
 
 ---
 
