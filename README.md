@@ -211,6 +211,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Fathom](https://fathom.video)                     | Free Zoom AI meeting assistant with summaries and insights.   | Free     | Unlimited free use                |
 | [Bardeen](https://www.bardeen.ai)                  | AI automation tool to build browser workflows without code.   | Free     | 100% free                         |
 | [Text Blaze](https://blaze.today)                  | AI-powered text automation and templates.                     | Freemium | Free plan with 20 snippets        |
+| [MindMap AI  ](https://mindmapai.app/ai-mindmap-maker)   | AI-powered mindmapping tool                     | Freemium | Free plan with Create unlimited mindmaps without ai      |
 
 ---
 
