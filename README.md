@@ -145,6 +145,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Zapier AI Chatbot](https://zapier.com/ai)         | Build bots that connect to 6,000+ apps using Zapier.          | Freemium | Free tier with limits                    |
 | [Botpress](https://botpress.com)                   | Open-source platform to build custom chatbots.                | Freemium | Free self-hosted version                 |
 | [Tiledesk](https://www.tiledesk.com)               | AI-enabled live chat and customer support automation.         | Freemium | Free plan with limited bots              |
+| [Kissable](https://kissable.app)                   | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages. | Freemium | 7-day free trial                         |
 
 ---
 
