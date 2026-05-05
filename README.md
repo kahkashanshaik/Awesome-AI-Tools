@@ -131,6 +131,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Perplexity AI](https://www.perplexity.ai)         | Chat + search engine hybrid with citations.                   | Freemium | Free (Pro adds Claude/ GPT-4o)           |
 | [Microsoft Copilot](https://copilot.microsoft.com) | Chatbot with web browsing, image gen, Office 365 tools.       | Free     | Free with Microsoft account              |
 | [You.com](https://you.com)                         | AI-powered search chatbot with writing, coding, and browsing. | Freemium | Free access, YouPro for GPT-4 & Claude   |
+| [Kissable](https://kissable.app)                   | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages. | Freemium | 7-day free trial                         |
 | [Pi by Inflection](https://heypi.com)              | Friendly and emotionally intelligent chatbot.                 | Free     | Unlimited use                            |
 | [Replika](https://replika.com)                     | Personal AI companion focused on conversation & emotion.      | Freemium | Free basic chat, Pro adds voice & images |
 | [Character.AI](https://beta.character.ai)          | Create and talk with AI personas (roleplay, celebs, etc.).    | Free     | Unlimited text chats                     |
