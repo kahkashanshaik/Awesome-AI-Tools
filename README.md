@@ -112,6 +112,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Papercup](https://www.papercup.com)   | AI voice dubbing and translation for video.                       | Paid     | Request demo                |
 | [Dubverse](https://dubverse.ai)        | Auto-dub videos into 30+ languages using AI.                      | Freemium | Free trial with watermark   |
 | [Nova AI](https://www.trynova.ai)      | AI-based video editing, translation, and subtitle gen.            | Freemium | Free with limited features  |
+| [ImagineClip](https://imagineclip.com?ref=kahkashanshaik-awesome-ai-tools) | AI video generator for social clips, avatars, and stylized scenes. | Freemium | Limited free generation     |
 
 ---
 
