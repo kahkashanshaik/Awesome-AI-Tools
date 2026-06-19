@@ -108,6 +108,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Rephrase.ai](https://www.rephrase.ai) | Personalized video generation using real humans.                  | Paid     | Custom pricing              |
 | [Elai.io](https://elai.io)             | Avatar-based videos with dynamic input and languages.             | Freemium | Free demo available         |
 | [Synthesys](https://synthesys.io)      | AI voice + avatar-based video creation.                           | Paid     | Free demo video             |
+| [ImagineClip](https://imagineclip.com) | AI video generator for avatar clips, stylized scenes, and social-ready videos. | Freemium | Free plan available         |
 | [Animaker](https://www.animaker.com)   | AI + drag-drop cartoon & explainer video tool.                    | Freemium | Free with limited exports   |
 | [Papercup](https://www.papercup.com)   | AI voice dubbing and translation for video.                       | Paid     | Request demo                |
 | [Dubverse](https://dubverse.ai)        | Auto-dub videos into 30+ languages using AI.                      | Freemium | Free trial with watermark   |
