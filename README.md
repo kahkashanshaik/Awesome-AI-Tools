@@ -37,6 +37,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | Tool Name                                     | Description                                                    | Pricing     | Free Credits / Trial                  |
 | --------------------------------------------- | -------------------------------------------------------------- | ----------- | ------------------------------------- |
 | [Jasper](https://www.jasper.ai)               | AI copywriter for long-form content, ads, emails, and more.    | Freemium    | 7-day free trial (no credits)         |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — | — |
 | [Copy.ai](https://www.copy.ai)                | Creates product descriptions, social captions, and blog posts. | Freemium    | Free plan with 2,000 words/month      |
 | [Writesonic](https://www.writesonic.com)      | SEO blog writer, landing page generator, chatbot included.     | Freemium    | 10,000 words on free plan             |
 | [Notion AI](https://www.notion.so/product/ai) | AI writing inside Notion for summarizing and generating text.  | Paid Add-on | Free trial with 20 uses               |
