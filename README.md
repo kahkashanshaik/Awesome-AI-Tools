@@ -75,6 +75,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [ImagineArt](https://imagine.art)                                            | Stunning, stylized image creation via prompt.         | Freemium | 100 images free on signup                     |
 | [Fotor AI Art Generator](https://www.fotor.com/features/ai-image-generator/) | AI photo to art with various styles and edits.        | Freemium | Limited daily generations                     |
 | [Picsart AI](https://picsart.com/tools/ai-image-generator)                   | Photo editing + AI art creation.                      | Freemium | Free with account                             |
+| [HairWow](https://www.gohairwow.com)                                      | AI hairstyle try-on for previewing haircuts, colors, and beard styles on your own photo before a salon or barber visit. | Freemium | Free public hairstyle guides; app features may require credits |
 | [DeepAI](https://deepai.org/machine-learning-model/text2img)                 | Open-source image gen API and basic UI.               | Free     | Unlimited use (basic quality)                 |
 | [Dreamlike Art](https://dreamlike.art)                                       | Beautiful image generation with fine-tuned models.    | Freemium | 50 free credits                               |
 | [StarryAI](https://www.starryai.com)                                         | AI art generator for NFTs and digital art.            | Freemium | 5 free creations/day                          |
