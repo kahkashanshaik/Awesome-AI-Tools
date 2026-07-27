@@ -34,6 +34,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 ## 📋 Writing Tools Comparison
 
+| [CharaVox](https://charavox.com) | AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM. |
 | Tool Name                                     | Description                                                    | Pricing     | Free Credits / Trial                  |
 | --------------------------------------------- | -------------------------------------------------------------- | ----------- | ------------------------------------- |
 | [Jasper](https://www.jasper.ai)               | AI copywriter for long-form content, ads, emails, and more.    | Freemium    | 7-day free trial (no credits)         |
