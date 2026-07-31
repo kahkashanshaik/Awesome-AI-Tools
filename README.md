@@ -43,6 +43,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Notion AI](https://www.notion.so/product/ai) | AI writing inside Notion for summarizing and generating text.  | Paid Add-on | Free trial with 20 uses               |
 | [Rytr](https://rytr.me)                       | Simple, affordable writing assistant for short-form content.   | Freemium    | 10,000 characters/month free          |
 | [Sudowrite](https://www.sudowrite.com)        | Creative writing assistant for fiction writers.                | Paid        | 3-day free trial                      |
+| [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) | Creates customizable stories from genre, tone, characters, and plot details. | Free | No sign-up required |
 | [QuillBot](https://www.quillbot.com)          | Paraphrasing, grammar, summarizer, and citation tools.         | Freemium    | Free plan with limited features       |
 | [HyperWrite](https://www.hyperwriteai.com)    | AI assistant for writing emails and replies in-browser.        | Freemium    | Unlimited usage with limited features |
 | [INK for All](https://inkforall.com)          | AI writing + SEO optimization for higher ranking content.      | Freemium    | Free plan with core features          |
