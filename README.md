@@ -96,6 +96,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | -------------------------------------- | ----------------------------------------------------------------- | -------- | --------------------------- |
 | [Runway ML](https://runwayml.com)      | Full-featured AI video editing (background removal, Gen-2, etc.). | Freemium | 125 free credits/month      |
 | [Pictory](https://pictory.ai)          | Turn long-form content into short videos using AI.                | Freemium | Free trial with watermark   |
+| [videos.social](https://videos.social/?utm_source=kahkashanshaik-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. | Freemium | 1 free render |
 | [Synthesia](https://www.synthesia.io)  | Generate professional AI avatar videos from text.                 | Paid     | Demo video free             |
 | [Lumen5](https://www.lumen5.com)       | Turn blog posts or text into videos with AI visuals.              | Freemium | Basic free plan             |
 | [Veed.io](https://www.veed.io)         | Online AI-powered video editing, subtitles, and auto cut.         | Freemium | Free with watermark         |
