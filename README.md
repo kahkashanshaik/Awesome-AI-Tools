@@ -140,6 +140,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [HuggingChat](https://huggingface.co/chat/)        | Open-source chatbot alternative to ChatGPT.                   | Free     | Unlimited access                         |
 | [Janitor AI](https://www.janitorai.com)            | NSFW-friendly chatbot with customizable characters.           | Freemium | Free with API key (OpenAI/others)        |
 | [AgentGPT](https://agentgpt.reworkd.ai/)           | Deploy autonomous GPT-powered agents in-browser.              | Freemium | Free limited runs                        |
+| [Orkas](https://github.com/Orkas-AI/Orkas)         | Local-first desktop AI workforce led by a Commander through one chat. | Free     | Open-source                              |
 | [AutoGPT](https://github.com/Torantulino/Auto-GPT) | Open-source autonomous GPT-4 agent runner (install locally).  | Free     | Requires OpenAI API key                  |
 | [Superagent](https://www.superagent.sh)            | Build, deploy and host custom GPT agents.                     | Freemium | Free tier with 100 messages/day          |
 | [OpenAgents](https://openagents.dev)               | Multi-agent framework for research & automation.              | Free     | Open-source                              |
