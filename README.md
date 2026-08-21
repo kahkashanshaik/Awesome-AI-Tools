@@ -109,6 +109,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Steve AI](https://www.steve.ai)       | AI text-to-animation and video generation.                        | Freemium | Limited free plan           |
 | [Rephrase.ai](https://www.rephrase.ai) | Personalized video generation using real humans.                  | Paid     | Custom pricing              |
 | [Elai.io](https://elai.io)             | Avatar-based videos with dynamic input and languages.             | Freemium | Free demo available         |
+| [SEELE TV](https://seele.tv/)           | Browser-based AI video creation studio.                            | — | — |
 | [Synthesys](https://synthesys.io)      | AI voice + avatar-based video creation.                           | Paid     | Free demo video             |
 | [Animaker](https://www.animaker.com)   | AI + drag-drop cartoon & explainer video tool.                    | Freemium | Free with limited exports   |
 | [Papercup](https://www.papercup.com)   | AI voice dubbing and translation for video.                       | Paid     | Request demo                |
