@@ -181,6 +181,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [SuperAGI](https://superagi.com)                                    | Open-source autonomous coding agents.                            | Free     | Open-source                    |
 | [Refact.ai](https://refact.ai)                                      | AI assistant for private codebases and self-hosting.             | Freemium | Free plan with VS Code support |
 | [StarCoder (BigCode)](https://huggingface.co/bigcode/starcoder)     | Open-source multilingual LLM for code (Hugging Face).            | Free     | Open API access                |
+| [Agent Coordinator](https://github.com/alanhoff/agent-coordinator)  | Per-user Codex skill for bounded work graphs, revisioned local state, and reconciliation before retry, with optional specialists or inline execution. | Free | MIT-licensed; Codex required |
 
 ---
 
