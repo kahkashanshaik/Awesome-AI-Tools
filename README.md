@@ -137,6 +137,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Pi by Inflection](https://heypi.com)              | Friendly and emotionally intelligent chatbot.                 | Free     | Unlimited use                            |
 | [Replika](https://replika.com)                     | Personal AI companion focused on conversation & emotion.      | Freemium | Free basic chat, Pro adds voice & images |
 | [Character.AI](https://beta.character.ai)          | Create and talk with AI personas (roleplay, celebs, etc.).    | Free     | Unlimited text chats                     |
+| [WSUP AI](https://wsupai.app/)                     | Free AI character chat in the browser — no sign up. SFW only. | Free     | No sign up required                      |
 | [HuggingChat](https://huggingface.co/chat/)        | Open-source chatbot alternative to ChatGPT.                   | Free     | Unlimited access                         |
 | [Janitor AI](https://www.janitorai.com)            | NSFW-friendly chatbot with customizable characters.           | Freemium | Free with API key (OpenAI/others)        |
 | [AgentGPT](https://agentgpt.reworkd.ai/)           | Deploy autonomous GPT-powered agents in-browser.              | Freemium | Free limited runs                        |
