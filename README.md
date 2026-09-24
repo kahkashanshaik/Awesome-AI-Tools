@@ -81,6 +81,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [StarryAI](https://www.starryai.com)                                         | AI art generator for NFTs and digital art.            | Freemium | 5 free creations/day                          |
 | [Photosonic by Writesonic](https://photosonic.writesonic.com)                | AI image generation by the makers of Writesonic.      | Freemium | 15 free credits                               |
 | [Magic Studio](https://magicstudio.com/tools/ai-image-generator)             | Create product shots, background removal + image gen. | Freemium | Free basic features                           |
+| [PhotoOmni](https://photoomni.com/en)                                        | Prepare passport and visa photos with country-specific compliance checks. | Paid | Digital photo from $5.99                      |
 
 ---
 
