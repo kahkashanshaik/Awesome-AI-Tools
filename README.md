@@ -145,6 +145,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Superagent](https://www.superagent.sh)            | Build, deploy and host custom GPT agents.                     | Freemium | Free tier with 100 messages/day          |
 | [OpenAgents](https://openagents.dev)               | Multi-agent framework for research & automation.              | Free     | Open-source                              |
 | [Quora Poe](https://poe.com)                       | Unified platform to chat with GPT-4, Claude, Mistral, etc.    | Freemium | Free with daily GPT-4/Claude messages    |
+| [StudyArena](https://studyarena.com) | Compare answers to a study question with model names hidden until after voting. | Freemium | Free three-model comparisons; paid model choice and six-model comparisons |
 | [FlowiseAI](https://flowiseai.com)                 | Drag-and-drop UI to build chatbot apps with LangChain.        | Free     | Open-source                              |
 | [Zapier AI Chatbot](https://zapier.com/ai)         | Build bots that connect to 6,000+ apps using Zapier.          | Freemium | Free tier with limits                    |
 | [Botpress](https://botpress.com)                   | Open-source platform to build custom chatbots.                | Freemium | Free self-hosted version                 |
