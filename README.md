@@ -169,6 +169,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Tabnine](https://www.tabnine.com)                                  | AI assistant for code completion and team collaboration.         | Freemium | Free plan available            |
 | [Replit Ghostwriter](https://replit.com/ghostwriter)                | In-browser AI suggestions, explanations, and refactoring.        | Freemium | Free trial available           |
 | [CodiumAI](https://www.codium.ai)                                   | AI-powered test generation and code understanding.               | Free     | Free with signup               |
+| [Agent QA](https://github.com/vostride/agent-qa)                    | Natural-language web and mobile regression QA via CLI and MCP.   | Free     | Free package; provider usage may cost |
 | [AskCodi](https://www.askcodi.com)                                  | AI assistant for queries, code, SQL, and documentation.          | Freemium | Free limited usage             |
 | [Bito AI](https://bito.ai)                                          | GPT-powered code suggestions, explanations, and snippets.        | Freemium | Free with daily limits         |
 | [Phind](https://www.phind.com)                                      | Dev-focused AI search + code generation (Claude, GPT-4).         | Free     | Unlimited use                  |
