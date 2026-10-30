@@ -53,6 +53,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 # Image Generation
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 > Discover 20 of the most powerful AI tools to generate stunning art, visuals, avatars, product renders, and more — with info on free credits and pricing.
 
 ---
