@@ -217,6 +217,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Bardeen](https://www.bardeen.ai)                  | AI automation tool to build browser workflows without code.   | Free     | 100% free                         |
 | [Text Blaze](https://blaze.today)                  | AI-powered text automation and templates.                     | Freemium | Free plan with 20 snippets        |
 | [MindMap AI  ](https://mindmapai.app/ai-mindmap-maker)   | AI-powered mindmapping tool                     | Freemium | Free plan with Create unlimited mindmaps without ai      |
+| [AUTOMATER.ai](https://automater.ai) | Tray app that tracks every AI coding agent you run: searchable past sessions, waiting alerts and usage across 9 providers. | Freemium | Free version, no account needed |
 
 ---
 
