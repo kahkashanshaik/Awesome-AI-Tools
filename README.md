@@ -208,6 +208,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Fireflies.ai](https://fireflies.ai)               | AI meeting assistant with transcription and searchable logs.  | Freemium | Free plan with 800 mins storage   |
 | [Otter.ai](https://otter.ai)                       | Real-time transcription and AI-powered meeting notes.         | Freemium | 300 mins/month free               |
 | [SaneBox](https://www.sanebox.com)                 | AI for email prioritization and inbox decluttering.           | Paid     | 14-day free trial                 |
+| [Alternativer](https://alternativer.org/)           | Editor-curated directory to find alternatives to AI tools with one-line pricing and feature diffs. | Free     | Free to browse                    |
 | [Compose AI](https://www.compose.ai)               | Chrome extension for AI writing and autocompletion.           | Freemium | Free plan available               |
 | [Taskade](https://www.taskade.com)                 | AI-powered to-do lists, project management, and mind maps.    | Freemium | Free plan with 3 workspaces       |
 | [ClickUp AI](https://clickup.com/features/ai)      | AI features inside ClickUp for task creation and summaries.   | Freemium | Free plan with optional AI add-on |
