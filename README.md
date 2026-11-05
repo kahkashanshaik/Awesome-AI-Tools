@@ -117,6 +117,8 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Dubverse](https://dubverse.ai)        | Auto-dub videos into 30+ languages using AI.                      | Freemium | Free trial with watermark   |
 | [Nova AI](https://www.trynova.ai)      | AI-based video editing, translation, and subtitle gen.            | Freemium | Free with limited features  |
 | [ImagineClip](https://imagineclip.com?ref=kahkashanshaik-awesome-ai-tools) | AI video generator for social clips, avatars, and stylized scenes. | Freemium | Limited free generation     |
+| [Cyanvid](https://cyanvid.com/?utm_source=github-kahkashanshaik-Awesome-AI-Tools&utm_medium=directory&utm_campaign=backlinks) | AI video generator from text/images with clear credit quotes. | Freemium | Welcome credits on signup |
+| [Barz Studio](https://barzvideo.com/?utm_source=github-kahkashanshaik-Awesome-AI-Tools&utm_medium=directory&utm_campaign=backlinks) | Free browser rap lyric video maker (bring your track; WebM export). | Freemium | Free without an account |
 
 ---
 
