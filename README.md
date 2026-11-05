@@ -95,6 +95,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 
 | Tool Name                              | Description                                                       | Pricing  | Free Credits / Trial        |
 | -------------------------------------- | ----------------------------------------------------------------- | -------- | --------------------------- |
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 | [Runway ML](https://runwayml.com)      | Full-featured AI video editing (background removal, Gen-2, etc.). | Freemium | 125 free credits/month      |
 | [Pictory](https://pictory.ai)          | Turn long-form content into short videos using AI.                | Freemium | Free trial with watermark   |
 | [Synthesia](https://www.synthesia.io)  | Generate professional AI avatar videos from text.                 | Paid     | Demo video free             |
