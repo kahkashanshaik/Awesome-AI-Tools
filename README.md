@@ -65,6 +65,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
 | [DALL·E 3 (OpenAI)](https://openai.com/dall-e)                               | Generate detailed images via ChatGPT or API.          | Freemium | Free in ChatGPT Plus or 15 credits via OpenAI |
 | [Leonardo AI](https://leonardo.ai)                                           | Realistic art for games, design, and concepts.        | Freemium | 150 free tokens/day                           |
 | [Raphael AI](https://raphael.app)                                             | Free text-to-image generator for designers & creators.| Free     | Unlimited core generation (no signup wall)    |
