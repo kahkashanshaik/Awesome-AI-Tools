@@ -62,6 +62,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | Tool Name                                                                    | Description                                           | Pricing  | Free Credits / Trial                          |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- | -------- | --------------------------------------------- |
 | [Midjourney](https://www.midjourney.com)                                     | High-quality AI art generator via Discord.            | Paid     | Trial discontinued                            |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
 | [DALL·E 3 (OpenAI)](https://openai.com/dall-e)                               | Generate detailed images via ChatGPT or API.          | Freemium | Free in ChatGPT Plus or 15 credits via OpenAI |
 | [Leonardo AI](https://leonardo.ai)                                           | Realistic art for games, design, and concepts.        | Freemium | 150 free tokens/day                           |
 | [Raphael AI](https://raphael.app)                                             | Free text-to-image generator for designers & creators.| Free     | Unlimited core generation (no signup wall)    |
