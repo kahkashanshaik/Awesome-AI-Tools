@@ -68,6 +68,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 | [DALL·E 3 (OpenAI)](https://openai.com/dall-e)                               | Generate detailed images via ChatGPT or API.          | Freemium | Free in ChatGPT Plus or 15 credits via OpenAI |
 | [Leonardo AI](https://leonardo.ai)                                           | Realistic art for games, design, and concepts.        | Freemium | 150 free tokens/day                           |
 | [Raphael AI](https://raphael.app)                                             | Free text-to-image generator for designers & creators.| Free     | Unlimited core generation (no signup wall)    |
