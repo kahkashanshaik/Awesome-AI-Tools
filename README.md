@@ -82,6 +82,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [StarryAI](https://www.starryai.com)                                         | AI art generator for NFTs and digital art.            | Freemium | 5 free creations/day                          |
 | [Photosonic by Writesonic](https://photosonic.writesonic.com)                | AI image generation by the makers of Writesonic.      | Freemium | 15 free credits                               |
 | [Magic Studio](https://magicstudio.com/tools/ai-image-generator)             | Create product shots, background removal + image gen. | Freemium | Free basic features                           |
+| [EmptyRoom AI](https://emptyroomai.com)                                     | AI virtual staging for real estate listing photos.   | Paid     | No free tier; pay per staged room             |
 
 ---
 
