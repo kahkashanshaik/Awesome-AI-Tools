@@ -244,6 +244,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Looka](https://looka.com)                        | AI-driven brand identity creator that generates logos, color palettes, fonts, and full branding kits from your business prompts. Great for integrated UI/UX branding workflows. | Freemium | Free logo previews; paid branding kits |
 | [Omneky](https://omneky.com)                      | AI tool for automated creative advertising campaigns—designs UI assets like banners and social cards tailored to target audiences using AI and A/B optimization. | Paid | Contact for demo; enterprise pricing |
 | [Liquid Glass (Apple)](https://en.wikipedia.org/wiki/Liquid_Glass) | Apple’s new design language introduced at WWDC 2025, offering a “fluid glass-like” interface aesthetic. Defines a modern UI framework for multi-platform Apple apps. | Free | Part of iOS 26/macOS Tahoe etc. |
+| [EasySociable](https://easysociable.com/?utm_source=kahkashanshaik-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) | Agent skill that turns a prompt into a branded multi-page social carousel (TikTok, Instagram, LinkedIn) with Studio review and PNG export. | Freemium | Free plan $0 with 3 downloads/mo; Creator $19 / Studio $49 |
 
 
 ---
