@@ -117,6 +117,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Dubverse](https://dubverse.ai)        | Auto-dub videos into 30+ languages using AI.                      | Freemium | Free trial with watermark   |
 | [Nova AI](https://www.trynova.ai)      | AI-based video editing, translation, and subtitle gen.            | Freemium | Free with limited features  |
 | [ImagineClip](https://imagineclip.com?ref=kahkashanshaik-awesome-ai-tools) | AI video generator for social clips, avatars, and stylized scenes. | Freemium | Limited free generation     |
+| [AimageToVideo](https://aimagetovideo.com/) | Animate one still photo into a ~5-second clip from a short motion prompt, in the browser. | Freemium | 1 free 480p clip/day, no sign-up |
 
 ---
 
