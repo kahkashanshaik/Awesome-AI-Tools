@@ -48,6 +48,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [INK for All](https://inkforall.com)          | AI writing + SEO optimization for higher ranking content.      | Freemium    | Free plan with core features          |
 | [Scalenut](https://www.scalenut.com)          | AI writer + SEO planner for long-form content/blogs.           | Freemium    | 7-day free trial                      |
 | [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. (~2.9k stars) | Free | Open-source (MIT)                     |
+| [WarmQuant](https://warmquant.com/) | AI English drafting with writing angles, author and reader personas, and editable saved drafts. | Freemium | 10 free generations per day |
 
 ---
 
